@@ -1,0 +1,26 @@
+[
+    {
+        "filme": "The Avengers" ,
+        "codigo": 1,
+        "duracao": 240,
+        "atores": ["RBJ", "SJ"],
+        "anoDeLancamento": 2021,
+        "emCartaz": true        
+    },
+    {
+        "filme": "Star Wars 2" ,
+        "codigo": 2,
+        "duracao": 180,
+        "atores": ["RBJ", "SJ"],
+        "anoDeLancamento": 2021,
+        "emCartaz": false        
+    },
+    {
+        "filme": "Transformers" ,
+        "codigo": 3,
+        "duracao": 220,
+        "atores": ["RBJ", "SJ"],
+        "anoDeLancamento": 2021,
+        "emCartaz": true        
+    }
+]
