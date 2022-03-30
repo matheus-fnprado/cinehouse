@@ -84,18 +84,19 @@ listarTodosOsFilmes() */
 
 // FORMA RESUMIDA
 
-/* const imprimeFilme = (catalogo, index) => console.log(index + " - " + catalogo.filme)
+const imprimeFilme = (catalogo, index) => console.log(index + " - " + catalogo.filme)
 
 let listarTodosOsFilmes = () => catalogo.forEach(imprimeFilme)
 
-listarTodosOsFilmes() */
+listarTodosOsFilmes()
 
+console.log(cinema)
 
 
 
 
 //FILMES DE LONGA DURAÇÃO
-function longaDuracao() {
+/* function longaDuracao() {
   
     const resultado = catalogo.filter( filme => filme.duracao > 120)
     return resultado
@@ -104,10 +105,7 @@ function longaDuracao() {
   const longaDuracao = listFilmesLongaDuracao
 
 
-  console.table(listFilmesLongaDuracao())
-
-
-
+  console.table(listFilmesLongaDuracao()) */
 
 
 
